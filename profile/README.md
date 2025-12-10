@@ -15,6 +15,7 @@
 </div>
 
 ---
+## O Nosso objetivo é ser 10x melhor ##
 
 ## 📖 Sobre a PARKIA
 
